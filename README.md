@@ -1,2 +1,2 @@
-# PixiWebPackTemplate
-this is a pixi typescript webpack based template
+# PixiTemplate
+this is a pixi, ts and webpack based  template
