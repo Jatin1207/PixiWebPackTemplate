@@ -1,5 +1,5 @@
 import { Application, Graphics } from 'pixi.js';
-import '../src/style.css';
+import '/src/style.css';
 
 const app = new Application({
   autoStart: false,
