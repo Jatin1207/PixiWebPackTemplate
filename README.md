@@ -1,5 +1,5 @@
 # PixiTemplate
-# <a name="gettingStarted></a> How to Run The game
+#  How to Run The game
 1. take the clone from the github
 2. after taking the clone run `npm i` to download node dependecies
 3. after downloading the dependecies run `npm run build` to build the all packages
